@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ashishpuri15/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ashishpuri15/leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Ashishpuri15/leetcode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/Ashishpuri15/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Ashishpuri15/leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Ashishpuri15/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Ashishpuri15/leetcode/tree/master/0410-split-array-largest-sum) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Ashishpuri15/leetcode/tree/master/0053-maximum-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Ashishpuri15/leetcode/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Ashishpuri15/leetcode/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/Ashishpuri15/leetcode/tree/master/0867-transpose-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Ashishpuri15/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
